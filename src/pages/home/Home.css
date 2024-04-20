@@ -1,0 +1,9 @@
+.ball {
+  position: absolute;
+  width: 50px; /* Adjust the width and height according to the size you want for the ball */
+  height: 50px;
+  background-color: red; /* Or any color you want for the ball */
+  border-radius: 50%; /* To make it round */
+  cursor: pointer; /* To indicate it's clickable */
+}
+
